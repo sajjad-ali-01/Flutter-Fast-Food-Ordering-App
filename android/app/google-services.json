@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473680783521",
+    "project_id": "myquickbytes-9e237",
+    "storage_bucket": "myquickbytes-9e237.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473680783521:android:065266792024734c05a8e0",
+        "android_client_info": {
+          "package_name": "com.example.mad_fastfoods"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPd6vO87aYlGxQboBMdhNpdn7JQVKY4G8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
